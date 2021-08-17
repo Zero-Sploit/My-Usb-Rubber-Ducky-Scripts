@@ -1,0 +1,1 @@
+# This Ducky Script grabs all wifi passwords on windows 10 and emails them using and existing outlook email if you do not have one well you know what todo ;P
